@@ -1,3 +1,5 @@
+# This launcher is still in development and is NOT READY to be released. Consider supporting us through [Patreon](https://patreon.com/fedotovdev8801) or contribution <3
+
 # HLXLauncher
 
 [![Join our Discord](https://img.shields.io/badge/Discord-Join%20Chat-5865F2?logo=discord&logoColor=white)](https://discord.gg/zEGHrrFfsD)
