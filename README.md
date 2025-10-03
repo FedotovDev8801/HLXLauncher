@@ -3,10 +3,11 @@
 # HLXLauncher
 
 [![Join our Discord](https://img.shields.io/badge/Discord-Join%20Chat-5865F2?logo=discord&logoColor=white)](https://discord.gg/zEGHrrFfsD)
+[![Support us on Patreon](https://img.shields.io/badge/Support%20us%20on-Patreon-orange?logo=patreon)](https://www.patreon.com/FedotovDev8801)
 
 ## What is it
 
-HLXLauncher is a fork of ATLauncher, it's Minecraft launcher which integrates multiple different modpacks to allow you to download and install
+HLXLauncher is a fork of ATLauncher. HLXLauncher is a Minecraft launcher which integrates multiple different modpacks to allow you to download and install
 modpacks easily and quickly, from CurseForge, Modrinth and Technic. Wanna play vanilla or with your own modpack? You can create it directly in launcher!
 
 ## Links
@@ -19,3 +20,13 @@ modpacks easily and quickly, from CurseForge, Modrinth and Technic. Wanna play v
 ## Contributing
 
 Take a look at [CONTRIBUTING.md](CONTRIBUTING.md)
+
+## Roadmap
+- Built-in Husky Client: 🟨 In Development
+- Minecraft launching: 🟩 Done
+- Final release: 🟨 Will be soon
+- Modrinth: 🟩 Done
+- CurseForge: 🟩 Done
+- Technic: 🟩 Done
+- `.mrpack` support: 🟩 Done
+- Redesign: 🟨 In Development
